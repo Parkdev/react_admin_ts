@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react_admin_ts/static/css/main.9e00389a.css",
-    "main.js": "/react_admin_ts/static/js/main.00d0523c.js",
+    "main.css": "/react_admin_ts/static/css/main.aa33c0a1.css",
+    "main.js": "/react_admin_ts/static/js/main.31fee10c.js",
     "static/js/592.8f8f0bb8.chunk.js": "/react_admin_ts/static/js/592.8f8f0bb8.chunk.js",
     "static/media/Microsoft_logo.png": "/react_admin_ts/static/media/Microsoft_logo.138ac170f94bbde6e5e4.png",
     "index.html": "/react_admin_ts/index.html",
-    "main.9e00389a.css.map": "/react_admin_ts/static/css/main.9e00389a.css.map",
-    "main.00d0523c.js.map": "/react_admin_ts/static/js/main.00d0523c.js.map",
+    "main.aa33c0a1.css.map": "/react_admin_ts/static/css/main.aa33c0a1.css.map",
+    "main.31fee10c.js.map": "/react_admin_ts/static/js/main.31fee10c.js.map",
     "592.8f8f0bb8.chunk.js.map": "/react_admin_ts/static/js/592.8f8f0bb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e00389a.css",
-    "static/js/main.00d0523c.js"
+    "static/css/main.aa33c0a1.css",
+    "static/js/main.31fee10c.js"
   ]
 }
